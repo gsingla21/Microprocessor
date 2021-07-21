@@ -1,0 +1,3 @@
+MVI A, 30H
+STA 8100H
+RST 5
