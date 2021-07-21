@@ -1,0 +1,3 @@
+LXI H, 8200
+MVI M, 20
+RST 5
